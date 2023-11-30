@@ -4,7 +4,7 @@
   "description": "advent of code 2023",
   "main": "index.js",
   "scripts": {
-    "test": "ok"
+    "start": "node index.js"
   },
   "repository": {
     "type": "git",
