@@ -1,0 +1,19 @@
+{
+  "name": "adventofcode2023",
+  "version": "1.0.0",
+  "description": "advent of code 2023",
+  "main": "index.js",
+  "scripts": {
+    "test": "ok"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lauyu10/adventOfCode2023.git"
+  },
+  "author": "Laurent Yu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lauyu10/adventOfCode2023/issues"
+  },
+  "homepage": "https://github.com/lauyu10/adventOfCode2023#readme"
+}
